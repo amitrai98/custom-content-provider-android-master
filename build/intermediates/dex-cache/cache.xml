@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/amitrai/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_3c60c1f0624f666bef74ef3bc6db5e63eaac920a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_fdecca56060bdb763ba2d292bacfd13a8c5a4594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-20.0.0_a5a2a386f717adca7a63d33d0c3f4b6ee1095ef2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,220 @@
+[
+    {
+        "outputFile": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 37,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 40,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 35,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 35,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 56,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 43,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 43,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 41,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 41,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 52,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 50,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 50,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 39,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 39,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

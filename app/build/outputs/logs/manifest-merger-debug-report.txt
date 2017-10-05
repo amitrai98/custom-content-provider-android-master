@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:8:22-77
+permission#com.tag.custom_contentproviderdemo.READ_DATABASE
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:10:5-116
+	android:protectionLevel
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:10:81-113
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:10:17-80
+permission#com.tag.custom_contentproviderdemo.WRITE_DATABASE
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:11:5-117
+	android:protectionLevel
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:11:82-114
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:11:17-81
+uses-sdk
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:14:5-16:41
+MERGED from [com.android.support:support-v4:20.0.0] /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:16:9-38
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:15:9-34
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:18:5-42:19
+MERGED from [com.android.support:support-v4:20.0.0] /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.tag.custom_contentproviderdemo.PlatesList
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:24:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.tag.custom_contentproviderdemo.AddPlate
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:33:9-80
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:33:19-77
+provider#com.tag.custom_contentproviderdemo.PlatesContentProvider
+ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:35:9-41:20
+	android:readPermission
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:39:13-86
+	android:authorities
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:37:13-76
+	android:exported
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:36:13-84
+	android:writePermission
+		ADDED from /home/amitrai/AndroidStudioProjects/easy-content-providers/custom-content-provider-android-master/app/src/main/AndroidManifest.xml:40:13-88
